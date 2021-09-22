@@ -4,11 +4,11 @@
 <p align="center"><img src="https://2.bp.blogspot.com/-eBu3-f3vzW0/V3E8UnYXsfI/AAAAAAAADHI/lJrPAoLSE70aO0F3W9fruZ8O-qJY76MSwCLcB/s1600/gambar-gerak-gif-chip-and-dale-terbaru.gif" style="width:100%"></p>
 
 <p align="center">
-  <a href="https://github.com/kenkannih/TelegramChat/fork">
+  <a href="https://github.com/jamalnggau1/Jamalnggauchat">
     <img src="https://img.shields.io/github/forks/kenkansaja/TelegramChat?style=plastic&logo=github&logoColor=red"width="100" height="40">
     
   </a>
-  <a href="https://github.com/kenkannih/TelegramChat">
+  <a href="https://github.com/jamalnggau1/Jamalnggauchat">
     <img src="https://img.shields.io/github/stars/kenkansaja/TelegramChat?style=plastic&logo=github&logoColor=red"width="100" height="40">
   </a>
 </p>  
@@ -26,7 +26,7 @@ Ini adalah repo untuk random chat bot atau biasa di kenal sebagai Anonymous Chat
 
 ### TEMUKAN KAMI DI TELEGRAM
 
-<a href="https://t.me/kenkanasw"><img src="https://img.shields.io/badge/OWNER KAN-blue?style=for-the-badge&logo=Telegram" /></a>
+<a href="https://t.me/jamalnggau1"><img src="https://img.shields.io/badge/OWNER KAN-blue?style=for-the-badge&logo=Telegram" /></a>
 <a href="https://t.me/musikkugroup"><img src="https://img.shields.io/badge/SUPPORT GROUP-black?style=for-the-badge&logo=Telegram" /></a>
 
 ---
@@ -40,5 +40,5 @@ Ini adalah repo untuk random chat bot atau biasa di kenal sebagai Anonymous Chat
 - [X] PESAN TERUSAN
 ---
 ## CREDIT
-* [KEN KAN](https://github.com/kenkansaja/TelegramChat)
+* [KEN KAN](https://github.com/jamalnggau1/Jamalnggauchat)
 
