@@ -4,8 +4,8 @@
   "repository": "https://github.com/jamalnggau1/Jamalnggauchat",
   "logo": "https://telegra.ph/file/de3e9d2a021c2ac516b12.jpg",
   "env": {
-    "TOKEN": {
-      "description": "1990723274:AAHW1n_DkERFjKvxhoY0U0J6g79CDgOPcMU",
+    "1990723274:AAHW1n_DkERFjKvxhoY0U0J6g79CDgOPcMU": {
+      "description": "ok gys",
       "value": ""
     },
     "OWNER": {
